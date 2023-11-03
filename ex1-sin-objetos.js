@@ -1,5 +1,7 @@
 /**
  * Dado el siguiente array de números, aplica adecuadamente cada uno de los métodos de array obteenr la información requerida
+ *
+ * Resultado esperado: https://oscarm.tinytake.com/msc/ODg4NjgxMF8yMjM0MDYyNg
  */
 
 const numbers = [-5, -3, -1, 1, 3, 5, 7, 9, 11, 13, 15, 17, 19];
