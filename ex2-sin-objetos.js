@@ -13,6 +13,8 @@ const students = [
   "Maria",
 ];
 
+// Resultado esperado: https://oscarm.tinytake.com/msc/ODg4Njg3NV8yMjM0MDcwNg
+
 // Utiliza el método forEach para mostrar cada elemento del array por la consola
 
 // Utiliza el método findIndex para encontrar que índica ocupa el string "Maria"
