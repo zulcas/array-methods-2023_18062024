@@ -299,9 +299,9 @@ const flightReservations = [
 
 // Usa el método forEach para mostrar UNICAMENTE el pasajero de cada uno de lo vuelos
 
-// USa el método find para encontrar el vuelo número 'AA456'
+// USa el método find para encontrar el vuelo número 'AA456'. Luego, muestra por consola el precio total de este vuelo
 
-// Usa el método find para encontrar el vuelo que ha reservado el señor bob.johnson@example.com
+// Usa el método find para encontrar el vuelo que ha reservado el señor bob.johnson@example.com. Muestra el objeto entero
 
 // Usa el método some para averiguar si algún vuelo tiene como destino el aeropuerto de LPA GRAN CANARIA
 
@@ -309,7 +309,7 @@ const flightReservations = [
 
 // Usa el método filter para obtener todos los vuelos que tienen la puerta de embarque 'D5'
 
-// Usa el método filter para obtener todos los vuelos que incluyen menús con comida Vegan
+// Usa el método filter para obtener todos los vuelos que incluyen menús con comida Vegan. BONUS: Muestra por consola el nombre de la aerolínea
 
 // Usa el método map para convertir cada objeto en un string con el formato 'numero de vuelo'-'compañía area'´Ejemplo : "AA456-American Airlines"
 
