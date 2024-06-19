@@ -10,6 +10,8 @@
  * @returns {array} Devuelve un array de numbers 
  */
 function toNumberArray(stringarray) {
+    let numberarray = stringarray.map(elem => parseFloat(elem));
+    return numberarray;
 }
 
 // Caso de prueba 1: Números enteros en forma de strings
